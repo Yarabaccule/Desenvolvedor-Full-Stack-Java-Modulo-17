@@ -1,0 +1,35 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.center{	
+		max-width: 1100px;
+		margin: 0 auto;
+		padding:0 2%;
+	}
+.inicio{
+	background: whitesmoke;
+}
+
+.logo{
+	width: 70px;
+	margin: 2%;
+    float: left;
+
+}
+.nav-link{
+	color: $black;
+}
+
+
+.txt{
+	margin-top: 5%;
+}
+.doisitems{
+	margin-top: 5%;
+}
+footer{
+	background: whitesmoke;
+	text-align: center;
+}
